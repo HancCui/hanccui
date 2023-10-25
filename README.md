@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me:
-  - [han_cui@163.com](han_cui@163.com) or [hcui@ir.hit.edu.cn]
 #### About Me
+* 📫
+  - [han_cui@163.com](han_cui@163.com) or [hcui@ir.hit.edu.cn]
 * 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree. (PS: Looking for PhD)
 * 🔍：Interested in Reasoning/Parsing/NLP/ML
 * 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
