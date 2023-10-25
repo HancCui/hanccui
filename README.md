@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 #### About Me
-* 📫
-  - [han_cui@163.com](han_cui@163.com) or [hcui@ir.hit.edu.cn](hcui@ir.hit.edu.cn)
-* 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree. (PS: Looking for PhD)
+* 📫：[han_cui@163.com](han_cui@163.com) or [hcui@ir.hit.edu.cn](hcui@ir.hit.edu.cn)
+* 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree. (PS: Looking for a place to do a Ph.D.)
 * 🔍：Interested in Reasoning/Parsing/NLP/ML
 * 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
-* 🎵：Singer🎤 and Saxophonist🎷 in the band which name is ``Undifined``
+* 🎵：Singer🎤 and Saxophonist🎷 in the band which name is ``Undefined``
   
