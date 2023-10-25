@@ -1,4 +1,4 @@
-### Hi there, it's Han Cui.
+### Hi there👋It's Han Cui.
 
 <!--
 **cccccent/cccccent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree.
+- 📫 How to reach me:
+  - [han_cui@163.com](han_cui@163.com) or [hcui@ir.hit.edu.cn]
+#### About Me
+* 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree. (PS: Looking for PhD)
 * 🔍：Interested in Reasoning/Parsing/NLP/ML
 * 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
 * 🎵：Singer🎤 and Saxophonist🎷 in the band ``Undifined``
+  
