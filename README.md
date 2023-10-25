@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, it's Han Cui.
 
 <!--
 **cccccent/cccccent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree.
+* 🔍：Interested in Reasoning/Parsing/NLP/ML
+* 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
+* 🎵：Singer🎤 and Saxophonist🎷 in the band ``Undifined``
