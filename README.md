@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 * 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree. (PS: Looking for PhD)
 * 🔍：Interested in Reasoning/Parsing/NLP/ML
 * 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
-* 🎵：Singer🎤 and Saxophonist🎷 in the band ``Undifined``
+* 🎵：Singer🎤 and Saxophonist🎷 in the band which name is ``Undifined``
   
