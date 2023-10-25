@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 * 🔍：Interested in Reasoning/Parsing/NLP/ML
 * 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
 * 🎵：Singer🎤 and Saxophonist🎷 in the band which name is ``Undefined``
+* 📺：Currently studying the algebraic system for the transformation of Super Saiyan in the comic "Dragon Ball"
   
