@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 * 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree. (PS: Looking for an opportunities to pursue a Ph.D.)
 * 🔍：Interested in Reasoning/Parsing/NLP/ML
 * 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
-* 🎵：Singer🎤 and Saxophonist🎷 in the band which name is ```str(Undefined)```
-* 📺：Recently studying the algebraic system for the transformation of Super Saiyan in the comic "Dragon Ball"
+* 🎵：Vocal🎤 and Saxophonist🎷 in the band which name is ```"Undefined"```
+
   
