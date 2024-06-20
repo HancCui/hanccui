@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 #### About Me
 * 📫：[han_cui@163.com](han_cui@163.com) or [hcui@ir.hit.edu.cn](hcui@ir.hit.edu.cn)
 * 📚：Studying at SCIR, HIT as a postgraduate to obtain a master's degree. (PS: Looking for an opportunities to pursue a Ph.D.)
-* 🔍：Interested in Reasoning/Parsing/NLP/ML
-  * Explanation Generation/Hybrid Question Answering
+* 🔍：Interested in Reasoning/Question Answering/NLP/ML
+
 * 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
 * 🎵：Vocal🎤 and Saxophonist🎷 in the band which name is ```"Undefined"```
 
