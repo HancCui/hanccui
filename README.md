@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### About Me
-* 📫：[cui_han@outlook.com](cui_han@outlook.com) or [cuihan@westlake.edu.cn](cuihan@westlake.edu.cn), and [my website](https://hanselcui.github.io/)
+* 📫：[cui_han@outlook.com](cui_han@outlook.com) or [cuihan@westlake.edu.cn](cuihan@westlake.edu.cn), and [my website](https://hancui.site)
 * 📚： Incoming PhD of WestlakeNLP Group at Westlake University.
 * 🔍： Interested in Reasoning/Question Answering/NLP/ML
 
