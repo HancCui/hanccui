@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 #### About Me
-* 📫：[han_cui@163.com](han_cui@163.com) or [hcui@ir.hit.edu.cn](hcui@ir.hit.edu.cn), and [my website](https://hanselcui.github.io/)
-* 📚： Studying at SCIR, HIT as a postgraduate to obtain a master's degree. (PS: Looking for an opportunity for Ph.D.)
+* 📫：[cui_han@outlook.com](cui_han@outlook.com) or [cuihan@westlake.edu.cn](cuihan@westlake.edu.cn), and [my website](https://hanselcui.github.io/)
+* 📚： Incoming PhD of WestlakeNLP Group at Westlake University.
 * 🔍： Interested in Reasoning/Question Answering/NLP/ML
 
 * 🏃🏻‍♀️：Basketball🏀 and Billiards🎱
